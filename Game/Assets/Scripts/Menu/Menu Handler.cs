@@ -39,6 +39,7 @@ public class MenuHandler : MonoBehaviour
             if (levelsgoarray[customLevelsa.level-1] != null && levelsgoarray[customLevelsa.level-1].GetComponent<ButtonHandler>().locked == false){
                 levelsgoarray[customLevelsa.level-1].GetComponent<ButtonHandler>().stars = customLevelsa.stars;
                 if (customLevelsa.scene != null){
+                    Debug.Log(customLevelsa.level-1);
                     levelsgoarray[customLevelsa.level-1].GetComponent<Button>().onClick.AddListener(() => SceneManager.LoadScene(customLevelsa.scene.name));
                 }
             }
