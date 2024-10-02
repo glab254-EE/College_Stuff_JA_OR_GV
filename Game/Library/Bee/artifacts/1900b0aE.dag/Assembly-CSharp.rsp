@@ -353,6 +353,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/KT1-Main.cs"
+"Assets/Scripts/KT2-Main.cs"
 "Assets/Scripts/Menu/Button Handler.cs"
 "Assets/Scripts/Menu/Menu Handler.cs"
 "Assets/Scripts/RetunButton.cs"

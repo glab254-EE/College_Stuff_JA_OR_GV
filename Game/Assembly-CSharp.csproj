@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Menu\Button Handler.cs" />
+    <Compile Include="Assets\Scripts\KT2-Main.cs" />
     <Compile Include="Assets\Scripts\KT1-Main.cs" />
     <Compile Include="Assets\Scripts\Menu\Menu Handler.cs" />
     <Compile Include="Assets\Scripts\RetunButton.cs" />
